@@ -1,0 +1,5 @@
+clc, clearvars, close all
+
+n = 4;
+A = randn(n)
+[U, M, plot]
