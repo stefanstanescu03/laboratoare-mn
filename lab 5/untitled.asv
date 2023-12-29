@@ -1,0 +1,6 @@
+clc, clearvars, close all
+
+n = 3;
+A = randn(3);
+
+[H, Q] = HQ(A)
